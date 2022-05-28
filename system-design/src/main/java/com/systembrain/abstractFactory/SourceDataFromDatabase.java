@@ -1,4 +1,4 @@
-package com.systembrain;
+package com.systembrain.abstractFactory;
 
 public class SourceDataFromDatabase implements IngestData{
     @Override

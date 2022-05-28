@@ -1,4 +1,4 @@
-package com.systembrain;
+package com.systembrain.abstractFactory;
 
 public interface IngestData {
     void dataIngest();
